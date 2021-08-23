@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Singh
 - 👀 I like to solve problems and learn new technology
-- 🌱 I’m currently working in Cisco
+- 🌱 I’m currently working for Cisco
 - 📫 If you want to collaborate, please send me an email - singh.rs7777@gmail.com
 
 <!---
